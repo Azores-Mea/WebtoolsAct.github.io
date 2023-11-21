@@ -1,0 +1,250 @@
+.wrapper{
+    width: 100%;
+    height: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    width: 100%;
+    height: 130px;
+    background-color: #00953B;
+}
+.logo{
+    width: 30%;
+    height: 130px;
+    text-align: center;
+    float: left;
+
+}
+.log{
+    padding-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.ccis{
+    color: white;
+    font-size: 12px;
+    font-weight: 700;
+}
+.nav{
+    width: 50%;
+    float: left;
+}
+.navbot{
+    float: left;
+    padding-top: 100px;
+    margin-right: 7%;
+    
+}
+.navbot a{
+    font-weight: 700;
+    text-decoration: none;
+    background-color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    color: white;
+    padding-top: 5px;
+    border-radius: 25px;
+    font-size: 15px;
+}
+.more{
+    float: right;
+}
+.more img{
+    width: 70px;
+    margin-top: 80px;
+    margin-right: 100px;
+}
+.content{
+    margin-top: 7px;
+    height: 830px;
+    width: 100%;
+}
+.content1{
+    background-color: #006834;
+    height: 200px;
+    width: 100%;
+}
+
+.heroimg{
+    padding-left: 200px;
+    padding-top: 10px;
+}
+.hero{
+    width: 300px;
+    border-radius:2%;
+    float: left;
+}
+.headline{
+    float: left;
+    text-align: center;
+    margin-top: -20px;
+    width: 50%;
+}
+.headline p{
+    font-size: 30px;
+    color: white;
+    font-weight: 700;
+}
+
+.headline a{
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #FFE432;
+    border-radius: 10px;
+}
+.arrow{
+    width: 20px;
+}
+.content2{
+    margin-top: 7px;
+    background-color: #00953B;
+    height: 370px;
+    padding-top: 1px;
+    
+}
+.assembly{
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+.content2 h1,p{
+    color: white;
+}
+.assem_images{
+    margin-left: 15%;
+    width: 100%;
+    height: 80px;
+}
+.facultyimg{
+    width: 140px;
+    margin-left: 40px;
+    border-radius: 5px;
+    float: left;
+    
+}
+.assem_text{
+    margin-left: 17.5%;
+    height: 70px;
+    width: 100%;
+}
+.assem_text p{
+    padding-right: 40px;
+    font-weight: 700;
+    width: 140px;
+    border-radius: 5px;
+    float: left;
+    font-size: 15px;
+}
+.view{
+    margin-left: 17.5%;
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+.view a{
+    padding: 5px;
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+    width: 140px;
+    border-radius: 10px;
+    float: left;
+    font-size: 23px;
+    background-color: #FFE432;
+    margin-right: 29px;
+}
+.content3{
+    margin-top: 7px;
+    background-color: #006834;
+    height: 260px;
+    width: 100%;
+}
+.student{
+    margin-left: 100px;
+    width: 50%;
+}
+.guestgames{
+    width: 40%;
+    margin-left: 50px;
+    float: left;
+    margin-top: -130px;
+}
+.guestgames h1, p{
+    color: white;
+    text-align: center;
+}
+.content3 img{
+    float: left;
+    border-radius: 5%;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 200px;
+}
+.footer{
+    margin-top: 20px;
+    width: 100%;
+    height: 220px;
+    background-color: black;
+}
+.ccislog{
+    width: 30%;
+    height: 130px;
+    text-align: center;
+    float: left;
+    margin-top: 20px;
+}
+.ccislog img{
+    width: 120px;
+
+}
+.socials{
+    float: left;
+    width: 50%;
+}
+.socmed{
+    justify-content: center;
+    float: left;
+    margin: 20px;
+    margin-left: 20%;
+}
+.socmed img{
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 50%;
+    width: 70px;
+}
+.log1{
+    margin-top: 20px;
+    width: 110px;
+}
+.ccis1{
+    font-size: 20px;
+    font-weight: 700;
+}
+.quick_link{
+    margin: 10%;
+    margin-top: 100px;
+    float: left;
+}
+.quick_link ul{
+    margin-top: -100px;
+    justify-content: center;
+    
+}
+.quick_link ul li a{
+    color: white;
+    margin: 23px;
+    text-decoration: none;
+    font-size: 20px;
+    transition: 0.5s;
+}
